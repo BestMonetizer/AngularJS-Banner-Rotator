@@ -1,0 +1,26 @@
+{
+  "name": "AngularJSRotator",
+  "description": "AngularJS Banner Rotator with XML image playlist and CSS transitions",
+  "main": "index.js",
+  "authors": [
+    "DL-AB"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "AngularJS",
+    "Banner",
+    "Rotator",
+    "Slideshow",
+    "Diaporama"
+  ],
+  "homepage": "https://github.com/davelamarre/AngularJS-Banner-Rotator",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

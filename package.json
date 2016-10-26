@@ -1,0 +1,31 @@
+{
+  "name": "AngularJSRotator",
+  "version": "1.0.0",
+  "description": "AngularJS Banner Rotator with XML image playlist and CSS transitions",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davelamarre/AngularJS-Banner-Rotator.git"
+  },
+  "keywords": [
+    "AngularJS",
+    "Banner",
+    "Rotator",
+    "Slideshow",
+    "Diaporama"
+  ],
+  "author": "DL-AB",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davelamarre/AngularJS-Banner-Rotator/issues"
+  },
+  "homepage": "https://github.com/davelamarre/AngularJS-Banner-Rotator#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-ruby-sass": "^2.1.0",
+    "gulp-watch": "^4.3.10"
+  }
+}
