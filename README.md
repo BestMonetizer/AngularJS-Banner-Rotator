@@ -31,8 +31,17 @@ Install the dependencies and devDependencies and start the server.
 $ cd project
 $ npm install
 $ bower install
+$ gulp
 $ gulp watch
 ```
+
+#### Compiling SCSS
+
+```sh
+$ gulp watch
+```
+
+
 
 ### Todos
 

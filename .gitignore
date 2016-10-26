@@ -9,6 +9,8 @@
 *.o
 *.so
 .idea
+.sass-cache
+.sass-cache/
 node_modules
 
 # Packages #
