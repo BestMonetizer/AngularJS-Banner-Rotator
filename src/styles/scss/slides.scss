@@ -1,0 +1,29 @@
+
+
+.ng-banner-rotator{
+	.ng-slides{
+		.ng-slide{
+			position:relative;
+			.ng-caption{
+
+				position: absolute;
+				padding: 20px;
+				z-index: 2000;
+				width: 100%;
+				box-sizing:border-box;
+				text-align: center;
+
+				background-color: rgba(0, 0, 0, 0.6);
+				background: rgba(0, 0, 0, 0.6);
+				color:#FFF;
+
+
+				top:0px;
+			}
+			img{
+				width:100%;
+				height: auto;
+			}
+		}
+	}
+}

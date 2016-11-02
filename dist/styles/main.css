@@ -1,0 +1,82 @@
+.ng-banner-rotator .ng-nav {
+  position: absolute;
+  bottom: 3px;
+  padding: 20px;
+  z-index: 2000;
+  width: 100%;
+  box-sizing: border-box;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.6);
+  background: rgba(0, 0, 0, 0.6);
+  color: rgba(0, 0, 0, 0.6);
+}
+.ng-banner-rotator .ng-nav .ng-nav-item {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  background: #6f6f6f;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.ng-banner-rotator .ng-nav .ng-nav-item.active {
+  background-color: #CCC;
+  cursor: default;
+}
+
+.ng-banner-rotator {
+  font-family: 'Raleway', sans-serif;
+  font-size: 14px;
+}
+
+.ng-banner-rotator .ng-slides .ng-slide {
+  position: relative;
+}
+.ng-banner-rotator .ng-slides .ng-slide .ng-caption {
+  position: absolute;
+  padding: 20px;
+  z-index: 2000;
+  width: 100%;
+  box-sizing: border-box;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.6);
+  background: rgba(0, 0, 0, 0.6);
+  color: #FFF;
+  top: 0px;
+}
+.ng-banner-rotator .ng-slides .ng-slide img {
+  width: 100%;
+  height: auto;
+}
+
+.ng-banner-rotator {
+  position: relative;
+  max-width: 800px;
+  margin: 0 auto;
+  box-shadow: 0px 0px 20px 0px rgba(89, 89, 89, 0.75);
+}
+
+h1 {
+  margin-top: 100px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  text-align: center;
+}
+
+.legal {
+  margin-top: 10px;
+  margin-bottom: 50px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 12px;
+  text-align: center;
+}
+
+.readme {
+  font-family: 'Raleway', sans-serif;
+  font-size: 12px;
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: #fbfbfb;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  border-radius: 20px;
+}

@@ -4,7 +4,8 @@
   "description": "AngularJS Banner Rotator with XML image playlist and CSS transitions",
   "main": "index.js",
   "scripts": {
-    "test": "npm install"
+    "preinstall": "npm i -g http-server",
+    "start": "gulp && http-server dist/"
   },
   "repository": {
     "type": "git",

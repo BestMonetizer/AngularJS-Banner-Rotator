@@ -31,6 +31,7 @@ Install the dependencies and devDependencies and start the server.
 $ cd project
 $ npm install
 $ bower install
+$ npm start
 $ gulp
 $ gulp watch
 ```

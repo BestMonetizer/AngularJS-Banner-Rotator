@@ -1,0 +1,39 @@
+
+
+
+
+.ng-banner-rotator{
+	.ng-nav{
+
+		position: absolute;
+		bottom: 3px;
+		padding: 20px;
+		z-index: 2000;
+		width: 100%;
+		box-sizing:border-box;
+		text-align: center;
+
+		background-color: rgba(0, 0, 0, 0.6);
+		background: rgba(0, 0, 0, 0.6);
+		color: rgba(0, 0, 0, 0.6);
+
+
+		.ng-nav-item{
+			display:inline-block;
+			width: 10px;
+			height: 10px;
+			background: #6f6f6f; 
+			-moz-border-radius: 5px; 
+			-webkit-border-radius: 5px; 
+			border-radius: 5px;
+			cursor:pointer;
+
+			&.active{
+				background-color:#CCC;
+				cursor:default;
+			}
+		}		
+
+	}
+
+}

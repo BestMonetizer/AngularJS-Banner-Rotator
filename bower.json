@@ -1,5 +1,5 @@
 {
-  "name": "AngularJSRotator",
+  "name": "angular-js-rotator",
   "description": "AngularJS Banner Rotator with XML image playlist and CSS transitions",
   "main": "index.js",
   "authors": [
